@@ -1,0 +1,26 @@
+{
+  "name": "blog_site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmethystCat/hc-blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmethystCat/hc-blog/issues"
+  },
+  "homepage": "https://github.com/AmethystCat/hc-blog#readme",
+  "devDependencies": {
+    "gulp-livereload": "^4.0.2"
+  },
+  "dependencies": {
+    "gulp": "^4.0.2"
+  }
+}
