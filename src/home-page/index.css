@@ -34,6 +34,7 @@ body {
   top: 0;
   left: 0;
   width: 50%;
+  height: 210px;
 }
 .hc-cover img {
   width: 100%;
@@ -78,4 +79,9 @@ body {
   font-size: 32px;
   display: inline-block;
   margin-left: 10px;
+}
+
+.hc-tile {
+  border-radius: 3px;
+  overflow: hidden;
 }
